@@ -2,16 +2,18 @@
 
 Docker has become a widely used tool for packaging and deploying applications in containers. Amazon Web Services(AWS) provides a fully managed private Docker registry called Elatic Container Registry (ECR) that allows you to store and manage your Docker images in the cloud. Here, i will show you how i build and push Docker images to ECR and Deployed it to ECS.
 
-## ARCHITECTURE
+## 
+![dockker-archi](https://github.com/OK-CodeClinic/Building-and-Pushing-Web-App-Docker-Images-to-AWS-ECR-and-deploy-on-AWS-ECS-Container-with-IAM/assets/100064229/f90fe775-9745-4eb2-8b4d-a06d94a1f4ec)
 
 
-### PREREQUISTIES
+### Prerequisite
 - AWS Account
 
-### Services used;
+### AWS Services used;
 - IAM User
 - Elastic Cointainer Services
 - Elastic Cointainer Registry
+- Application Load balancer
 
 
 ### .
