@@ -79,7 +79,11 @@ Do you wonder why we need to create service? Let me answer that;
 - Integration with either EC2 or AWS Fargate (your choice)
 - So, let's create one
 
- ![service showing 2 instance](https://github.com/OK-CodeClinic/Building-and-Pushing-Web-App-Docker-Images-to-AWS-ECR-and-deploy-on-AWS-ECS-Container-with-IAM/assets/100064229/4561ced9-2459-4a3c-aa00-0ba8856d6986)
+![service showing name](https://github.com/OK-CodeClinic/Building-and-Pushing-Web-App-Docker-Images-to-AWS-ECR-and-deploy-on-AWS-ECS-Container-with-IAM/assets/100064229/98a79951-15e0-4452-8654-52bc996ff186)
+
+![Screenshot (169)](https://github.com/OK-CodeClinic/Building-and-Pushing-Web-App-Docker-Images-to-AWS-ECR-and-deploy-on-AWS-ECS-Container-with-IAM/assets/100064229/35eb4a24-416e-4e87-8d7f-e211980dedcc)
+
+
 
 
 
